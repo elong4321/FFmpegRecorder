@@ -1,0 +1,9 @@
+<resources>
+    <string name="FFmpegRecorder">FFmpegRecorder</string>
+    <string name="action_settings">Settings</string>
+    <string name="permission_camera_rationale">应用需要录制摄像头画面与声音</string>
+    <string name="button_allow">允许</string>
+    <string name="button_deny">拒绝</string>
+    <string name="permission_denied">已拒绝权限</string>
+    <string name="permission_neverask">以后不再询问权限</string>
+</resources>

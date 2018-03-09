@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="size_btn_record">100dp</dimen>
+    <dimen name="margin_record_btn">100dp</dimen>
+    <dimen name="ring_size">5dp</dimen>
+    <dimen name="oval_size">95dp</dimen>
+</resources>
